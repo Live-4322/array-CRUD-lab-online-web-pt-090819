@@ -7,13 +7,13 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  numbers << 5
+  numbers << (5)
  
  end
 end
 
 def add_element_to_start_of_array(array, element)
-  numbers.unshift(0)
+  numbers.unshift (0)
  
  end
 end
